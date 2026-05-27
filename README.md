@@ -1,2 +1,2 @@
-# JSGame
-A pure JS Game to learn and practice
+# TSGame
+A pure TS Game to learn and practice
