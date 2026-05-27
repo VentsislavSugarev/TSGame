@@ -1,4 +1,4 @@
-import { TILE_SIZE } from "../constants/gameConstants";
+import { TILE_SIZE } from "../constants/gameConstants.js";
 
 export class Map{
     private grid: number[][] = [
